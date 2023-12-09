@@ -1,0 +1,416 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+/* Navbar-style */
+.navbar
+{
+ background: rgba(229, 84, 115, 0.10);
+ display: flex;
+}
+.hed1
+{
+color: #272727;
+font-family: Lato;
+font-size: 60px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+padding-left: 200px;
+padding-top: 80px;
+}
+.prg1
+{
+color: rgba(39, 39, 39, 0.60);
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+padding-left: 200px;
+padding-top: 32px;
+}
+.btn1
+{
+border-radius: 10px;
+background: #E55473;
+padding: 20px 33px;
+margin-left: 200px;
+margin-top: 32px;
+border-style: none;
+}
+.text1
+{
+color: #FFF;
+font-family: Lato;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+text-decoration: none;
+}
+.img1
+{
+width: 555px;
+height: 600px;
+}
+/* Main work section */
+.hed2
+{
+color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 35px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+padding-top: 50px;
+}
+.prg2
+{
+color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+width: 40%;
+padding-left: 400px;
+padding-top: 5px;
+}
+.sec2 > div
+{
+ display: flex;
+ gap: 20px;
+ padding-top: 50px;
+ padding-left: 280px;
+}
+.box1
+{
+border-radius: 400px 400px 0px 0px;
+background: rgba(167, 33, 98, 0.15);
+width: 264px;
+height: 338px;
+}
+.imgb1
+{
+width: 210px;
+height: 300px;
+padding-left: 30px;
+padding-top: 30px;
+}
+.box2
+{
+border-radius: 400px 400px 0px 0px;
+background: rgba(5, 151, 160, 0.15);
+width: 264px;
+height: 338px;
+}
+.imgb2
+{
+width: 270px;
+height: 300px;
+padding-left: 5px;
+padding-top: 30px;
+}
+.box3
+{
+border-radius: 400px 400px 0px 0px;
+background: rgba(71, 125, 17, 0.15);
+width: 264px;
+height: 338px;
+}
+.imgb3
+{
+width: 210px;
+height: 328px;
+padding-left: 30px;
+}
+.anchor1
+{
+text-decoration: none;
+}
+.atxt
+{
+text-align: center;
+padding-top: 20px;
+}
+/* Section 3 Style */
+.sec3
+{
+margin-top: 128px;
+margin-left: 350px;
+border-radius: 10px;
+width: 740px;
+height: 220px;
+background: rgba(39, 39, 39, 0.05);
+display: flex;
+gap: 20px;
+}
+.sec3img1
+{
+width: 58px;
+height: 58px;
+padding-left: 100px;
+padding-top: 86px;
+}
+.sec3p1
+{
+color: rgba(39, 39, 39, 0.80);
+text-align: center;
+font-family: Lato;
+font-style: normal;
+font-weight: 600;
+line-height: 35px;
+padding-left: 20px;
+}
+.sec3p2
+{
+color: rgba(39, 39, 39, 0.80);
+text-align: center;
+font-family: Lato;
+font-style: normal;
+font-weight: 600;
+line-height: 35px; 
+padding-left: 20px;
+}
+.sec3p3
+{
+color: rgba(39, 39, 39, 0.80);
+text-align: center;
+font-family: Lato;
+font-style: normal;
+font-weight: 600;
+line-height: 35px;
+padding-left: 60px;
+}
+/* Section 4 style  */
+.sec4
+{
+border-radius: 8px;
+background: rgba(229, 84, 115, 0.05);
+display: flex;
+margin-top: 128px;
+flex-shrink: 0;
+}
+.hed3
+{
+color: #272727;
+font-family: Lato;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+padding-left: 223px;
+padding-top: 230px;
+}
+.psec4
+{
+color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px; /* 166.667% */
+width: 580px;
+padding-left: 200px;
+padding-top: 24px;
+}
+.signup
+{
+border-radius: 10px;
+background: #E55473;
+padding: 10px 23px;
+margin-left: 420px;
+margin-top: 32px;
+border-style: none;
+}
+.bsup
+{
+color: #FFF;
+font-family: Lato;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+text-decoration: none;
+}
+.isec4
+{
+width: 318px;
+height: 420px;
+flex-shrink: 0;
+margin-top: 60px;
+margin-left: 100px;
+}
+.off
+{
+color: #E55473;
+font-family: Lato;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+/* Section 5 style */
+.hed4
+{
+color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+margin-top: 128px;
+}
+.psec5
+{
+color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px; /* 166.667% */
+width: 594px;
+margin-left: 350px;
+margin-top: 10px;
+}
+.sec5imgs
+{
+margin-top: 48px;
+display: flex;
+gap: 24px;
+margin-left: 190px;
+}
+.sec5img
+{
+width: 242px;
+height: 296px;
+}
+/* Section 6 style */
+.sec6
+{
+background-image: url(images/Rectangle\ 9.png);
+border-radius: 8px;
+background-repeat: no-repeat;
+background-position: center;
+background-size: contain;
+width: auto;
+height: 300px;
+margin-top: 100px;
+margin-left: 50px;
+text-align: center;
+}
+.hed5
+{
+color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+padding-top: 120px;
+}
+.psec6
+{
+color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px; /* 166.667% */
+}
+.div1sec6
+{
+padding-top: 28px;
+}
+.emailbox
+{
+border-radius: 9px;
+border-style: none;
+background: #FFF;
+width: 350px;
+height: 40px;
+flex-shrink: 0;
+padding-left: 20px;
+}
+.bforsec6
+{
+border-radius: 8px;
+background: #E55473;
+border-style: none;
+width: 110px;
+height: 34px;
+flex-shrink: 0;
+}
+.psub
+{
+color: #FFF;
+font-family: Lato;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+width: 40px;
+height: 27.429px;
+flex-shrink: 0;
+padding-left: 14px;
+}
+/* Footer Style */
+.foter
+{
+background: #111010;
+margin-top: 110px;
+}
+.hed6
+{
+color: #E55473;
+font-family: Lato;
+font-size: 30px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+text-align: center;
+padding-top: 70px;
+}
+.shop
+{
+color: #FFF;
+font-family: Lato;
+font-size: 30px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+.pfoter
+{
+color: rgba(255, 255, 255, 0.90);
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px; /* 166.667% */
+padding-top: 24px;
+width: 625px;
+padding-left: 360px;
+}
+.pfoter1
+{
+color: rgba(255, 255, 255, 0.40);
+text-align: center;
+font-family: Lato;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+padding-top: 32px;
+padding-bottom: 80px;
+}
